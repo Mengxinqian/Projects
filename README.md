@@ -1,4 +1,4 @@
 Projects
 ========
 
-Some projects that I completed during my study at UC Berkeley
+This repository shows some projects I completed (still in editing). Enjoy!
